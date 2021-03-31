@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/react-framer_motion-animation-website/static/js/main.fe75a575.chunk.js",
+    "main.js.map": "/react-framer_motion-animation-website/static/js/main.fe75a575.chunk.js.map",
+    "runtime-main.js": "/react-framer_motion-animation-website/static/js/runtime-main.bef29768.js",
+    "runtime-main.js.map": "/react-framer_motion-animation-website/static/js/runtime-main.bef29768.js.map",
+    "static/js/2.b17fa40e.chunk.js": "/react-framer_motion-animation-website/static/js/2.b17fa40e.chunk.js",
+    "static/js/2.b17fa40e.chunk.js.map": "/react-framer_motion-animation-website/static/js/2.b17fa40e.chunk.js.map",
+    "index.html": "/react-framer_motion-animation-website/index.html",
+    "precache-manifest.7d27aeda8e208037765c910d451b1479.js": "/react-framer_motion-animation-website/precache-manifest.7d27aeda8e208037765c910d451b1479.js",
+    "service-worker.js": "/react-framer_motion-animation-website/service-worker.js",
+    "static/js/2.b17fa40e.chunk.js.LICENSE.txt": "/react-framer_motion-animation-website/static/js/2.b17fa40e.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.png": "/react-framer_motion-animation-website/static/media/athlete-small.f85903d4.png",
+    "static/media/athlete2.png": "/react-framer_motion-animation-website/static/media/athlete2.6d53898d.png",
+    "static/media/clock.svg": "/react-framer_motion-animation-website/static/media/clock.f5c64a5f.svg",
+    "static/media/diaphragm.svg": "/react-framer_motion-animation-website/static/media/diaphragm.f6204831.svg",
+    "static/media/good-times2.jpg": "/react-framer_motion-animation-website/static/media/good-times2.e149f59c.jpg",
+    "static/media/goodtimes-small.png": "/react-framer_motion-animation-website/static/media/goodtimes-small.169a9b3a.png",
+    "static/media/home1.png": "/react-framer_motion-animation-website/static/media/home1.99a18d77.png",
+    "static/media/home2.png": "/react-framer_motion-animation-website/static/media/home2.ee6a6079.png",
+    "static/media/money.svg": "/react-framer_motion-animation-website/static/media/money.d1749735.svg",
+    "static/media/teamwork.svg": "/react-framer_motion-animation-website/static/media/teamwork.8c795ad5.svg",
+    "static/media/the-racer2.jpg": "/react-framer_motion-animation-website/static/media/the-racer2.74873026.jpg",
+    "static/media/theracer-small.png": "/react-framer_motion-animation-website/static/media/theracer-small.ca518f44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bef29768.js",
+    "static/js/2.b17fa40e.chunk.js",
+    "static/js/main.fe75a575.chunk.js"
+  ]
+}
